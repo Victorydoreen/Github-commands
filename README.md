@@ -1,1 +1,1 @@
-# Github-commands
+These are the git commands
